@@ -59,8 +59,8 @@ There are also things that we **won't** take into account when evaluating the ap
      in contact with as many applicants as possible, for future GSoD rounds, punctual contributions,
      talks, blogs, books...
 * Hourly rate or number of hours worked
-   * The project has a budget of $7000 and has to happen at some point between the day you are hired and November 16, 2021.
-     That is all that is required. We use project based pricing to give you more freedom in
+   * The total budget allocated to us from Google is roughly 7000 USD. All work needs to occur between the date of hire and November 16, 2021.
+     That is all that is required strictly required from Google. We use project based pricing to give you more freedom in
      organizing your time and proposal. You can work full time less months, part time more months, some
      weeks full time and some weeks part time... we definitely don't expect you to work full time
      from May to November though! This is technical work that we value a lot. If you plan better
