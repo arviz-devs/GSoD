@@ -15,7 +15,7 @@ We will review applications between May 1st and May 10th. We reserve ourselves t
 formalize the project.
 
 ## Application requirements
-Only applications from people who perform the couple tasks below will be considered.
+Only applications from people who perform the task below will be considered.
 
 The only requirement will be writing a short commentary on
 one of the pages in our documentation (from sections "Getting Started" or "User Guide")
