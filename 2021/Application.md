@@ -2,10 +2,10 @@
 Technical writers interested in participating to GSoD with ArviZ should follow these steps:
 
 1. Join the dedicated ArviZ Gitter channel for season of docs: https://gitter.im/arviz-devs/season_of_docs
-1. Send an statement of interest to `arviz.devs@gmail.com` before May 1st. More info about your statement of
+2. Send an statement of interest to `arviz.devs@gmail.com` before May 1st. More info about your statement of
    interest at []().
-1. Fulfill the application requirements before May 10th.
-1. Be available for feedback on your proposal.
+3. Fulfill the application requirements before May 10th.
+4. Be available for feedback on your proposal.
 
 ## Application requirements
 Only applications from people who perform the couple tasks below will be considered.
