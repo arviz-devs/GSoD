@@ -12,8 +12,8 @@ Your statement of interest should include your contact information,
 information about your technical writing experience,
 and an outline of the work you would do with the organization.
 
-It should also highlight how you meet any specific requirements and skills in our [selection criteria]().
-Read the [project scope page]() carefully to make sure you have included all the required information.
+It should also highlight how you meet any specific requirements and skills in our [selection criteria](https://github.com/arviz-devs/GSoD/blob/main/2021/Application.md#selection-criteria).
+Read the [project scope page](https://github.com/arviz-devs/GSoD/blob/main/2021/detailed_project_scope.md) carefully to make sure you have included all the required information.
 
 This template is an outline to help you create your own statement of interest.
 
@@ -38,7 +38,6 @@ please note that in your proposal and provide a username.
 * Detailed description.
    * Give a description of how you will approach the project
    * Say how what you’re proposing will solve our problem or meet our goals
-   * Include a summary of any discussions you’ve had with us about the project.
 * Proposed timeline and budget
    * Give a general outline of the timeline and phases of the project. For example, you may budget two weeks for information gathering, four weeks for writing, two weeks for review and changes, and a week for publication.
    * Include explicit expectations for participation and feedback from us. What will you need from the mentors? Fast answers to queries, help getting started with sphinx/documenter...

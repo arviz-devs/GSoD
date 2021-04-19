@@ -21,7 +21,8 @@ proposals and provide some insight on our priorities.
    * This should also consider readability ensuring the language is accessible by folks from any background,
      ArviZ is used at all formation levels, from students to professors and for people in many
      fields, from particle physics or psychology to economy or molecular biology.
-* Write down the results of the evaluation.
+* Write down the results of the evaluation (see below in both key and secondary milestones form more
+  details)
    * In "How to write/read ArviZ docs" guides
    * In issues as actionable changes so the whole community can get involved and improve the docs
    * Edit one/a few pages as an example of best practices
@@ -36,11 +37,11 @@ proposals and provide some insight on our priorities.
 
 
 ## Secondary milestones
-* Provide feedback on visual design of graphics
-* Make code changes based on recommendations
-* Include assessment of sister open source docs from the perspective of an ArviZ user such as xarray and matplotlib as these OSS libraries are crucial for use
+* Update documentation based on recommendations
+* A writeup on where we started, what happened during the GSOD process, and next actions
 * A survey about our users and how they use and want to use docs, an example from scipy is [here](https://github.com/mkg33/GSoD/blob/master/user_survey_summary.pdf)
-* A writeup on where we started, what happened during the GSOD process, and next actions, and general tips moving forward like the repo here
+* Include assessment of sister open source docs from the perspective of an ArviZ user such as xarray and matplotlib as these OSS libraries are crucial for use
+* Provide feedback on visual design of graphics
 
 ## Out of scope milestones
 * Extensive technical explanation of mathematical concepts. E.g. we’re not proving theorems or rewriting papers
