@@ -50,19 +50,19 @@ the feedback round.
 ## "Unskills"
 There are also things that we **won't** take into account when evaluating the applications.
 
-* Willingness to work with us in the future
+* An expectation or consideration of work past the scope of Google Season of Docs
    * Right now (maybe ever) we can’t guarantee anyone that they will be paid to work on ArviZ.
      We understand that not everyone has the privilege of being able to dedicate their free time to OSS.
      We want the best person for the project at hand, not the person who will be able to help more
      once the project finishes. Having said that, from the early application process we will strive
      to make the whole process an enriching and enjoyable experience for everyone and hope to keep
      in contact with as many applicants as possible, for future GSoD rounds, punctual contributions,
-     talks, blogs, books...
+     talks, blogs, books.
 * Hourly rate or number of hours worked
    * The total budget allocated to us from Google is roughly 7000 USD. All work needs to occur between the date of hire and November 16, 2021.
      That is all that is required strictly required from Google. We use project based pricing to give you more freedom in
      organizing your time and proposal. You can work full time less months, part time more months, some
-     weeks full time and some weeks part time... we definitely don't expect you to work full time
+     weeks full time and some weeks part time. we definitely don't expect you to work full time
      from May to November though! This is technical work that we value a lot. If you plan better
      with time and hourly rates, as a rule of thumb you should probably consider hourly rates
      between $50 and $120 depending on your experience.
