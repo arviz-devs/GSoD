@@ -39,7 +39,6 @@ please note that in your proposal and provide a username.
    * Give a description of how you will approach the project
    * Say how what you’re proposing will solve our problem or meet our goals
    * Include a summary of any discussions you’ve had with us about the project.
-   * Pay attention to the language and style of your proposal.
 * Proposed timeline and budget
    * Give a general outline of the timeline and phases of the project. For example, you may budget two weeks for information gathering, four weeks for writing, two weeks for review and changes, and a week for publication.
    * Include explicit expectations for participation and feedback from us. What will you need from the mentors? Fast answers to queries, help getting started with sphinx/documenter...
