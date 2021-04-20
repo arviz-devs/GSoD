@@ -26,7 +26,7 @@ proposals and provide some insight on our priorities.
    * In "How to write/read ArviZ docs" guides
    * In issues as actionable changes so the whole community can get involved and improve the docs
    * Edit one/a few pages as an example of best practices
-* Write a "how to write arviz documentation" guide
+* Write a "how to write ArviZ documentation" guide
    * Bring the documentation framework of your choice to ArviZ, explain where each of the parts/blocks
      of the framework are found in ArviZ docs, where should each type of content go, what to do when
      a new function is added, what to do when a new module is added...
