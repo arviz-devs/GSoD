@@ -41,7 +41,7 @@ We believe that these three skills are necessary to be successful in the GSoD pr
 * Knowledge of a documentation framework
    * By documentation framework we understand any kind of framework, philosophy, system, principle, theory...
      about writing and organizing documentation. There are many resources available related to this topic, diataxis, the good docs project,
-     write the docs community reources...
+     write the docs community resources.
 
 ## Preferred skills
 Things that will help but are not required are:
