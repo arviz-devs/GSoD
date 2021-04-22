@@ -4,7 +4,9 @@ This document builds on the project scope outlined in our
 to give more details about the project, propose some extra ideas to help with your specific
 proposals and provide some insight on our priorities.
 
-## Key milestones
+These are suggseted milestones, if you think we should do something different tell us! You're the expert after all!
+
+## Key suggested milestones
 
 * Evaluate current documentation flow and organization
    * This should happen in light of a documentation framework.
@@ -36,7 +38,7 @@ proposals and provide some insight on our priorities.
 * A priority list of what the remaining actions are at the end of the projects so we can create issue tickets and continue with the work as a community
 
 
-## Secondary milestones
+## Secondary suggested milestones
 * Update documentation based on recommendations
 * A writeup on where we started, what happened during the GSOD process, and next actions
 * A survey about our users and how they use and want to use docs, an example from scipy is [here](https://github.com/mkg33/GSoD/blob/master/user_survey_summary.pdf)
