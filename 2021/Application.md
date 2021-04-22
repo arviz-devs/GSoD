@@ -14,8 +14,7 @@ We will review applications between May 1st and May 10th. We reserve ourselves t
 10th to the 17th to coordinate with the selected technical writer and Google Season of Docs to
 formalize the project.
 
-## Application requirements
-Only applications from people who perform the task below will be considered.
+## What we need from you
 
 The only requirement will be writing a short commentary on
 one of the pages in our documentation (from sections "Getting Started" or "User Guide")
@@ -23,9 +22,13 @@ with some general feedback and some actionable insights
 (that could be for example eventually converted into issues for the community to fix).
 The document should have 5000 characters at the very most.
 
-Let us know if you have doubts about what constitutes a page.
+Let us know if you have doubts about what constitutes a page. 
+Only applications from people who perform the task below will be considered.
 
----
+## What you can expect from us
+In short an engagged developer community! We're very excited to have this help and give you access to our various communication channels, where we'll be happy to answer questions.
+It might take us a day sometimes to get back to you depending on timing, and people sleeps schedules, but we certainly will!
+
 ---
 
 # Selection criteria
