@@ -3,7 +3,7 @@ ArviZ is a Python and Julia library for exploratory analysis of Bayesian models,
 and includes many [vizualizations](https://arviz-devs.github.io/arviz/examples/index.html)
 to that end.
 
-As ArviZ developers we try to follow the literature on effective data visualization,
+As ArviZ developers we strive to follow the literature on effective data visualization,
 especially around communicating uncertainty, but there are many factors that make this difficult. Including but not restricted to lack of time to implement or update code, publications that slipped under our radar, unconscious biases towards bad practices.
 
 Therefore, to ensure ArviZ is an active agent in advocating and popularizing
