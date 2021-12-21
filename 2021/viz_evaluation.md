@@ -4,11 +4,7 @@ and includes many [vizualizations](https://arviz-devs.github.io/arviz/examples/i
 to that end.
 
 As ArviZ developers we try to follow the literature on effective data visualization,
-especially around communicating uncertainty, but we might not have time to
-keep up with everything, we might be weighted down by bad practices we still have
-not managed and we might not always have time to update the code when a new
-recommendation or visualization type is made available.
-Probably a combination of all 3 and some extra factors.
+especially around communicating uncertainty, but there are many factors that make this difficult. Including but not restricted to lack of time to implement or update code, publications that slipped under our radar, unconscious biases towards bad practices.
 
 Therefore, to ensure ArviZ is an active agent in advocating and popularizing
 effective data visualization practices we budgeted $2000 as part of our GSoD
@@ -21,9 +17,8 @@ We are expecting a report covering the following points:
 * Analysis of available and missing visualizations
 
   Evaluate which visualizations should be present in ArviZ but are not.
-  Each visualization list how it would serve ArviZ's goal and some
-  degree of addition priority, not necessarily a ranking, could be
-  binning missing visualizations in 3-4 high-low priority categories.
+  For each visualization we should get a description of how it would serve ArviZ's goal and some degree of addition priority, not necessarily a ranking, could be
+  binning missing visualizations in 3 or 4 high to low priority categories.
 
 * Analysis of current defaults
 
@@ -34,7 +29,7 @@ We are expecting a report covering the following points:
 
 * Analysis of usage advise
 
-  Evaluate the advise included in the ArviZ documentation about
+  Evaluate current advise included in the ArviZ documentation about
   using each plotting function. As a first approximation this
   should be a list of useful references per plot so users can
   better understand when and how to use each of them.
