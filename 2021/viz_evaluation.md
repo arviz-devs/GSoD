@@ -37,11 +37,6 @@ We are expecting a report covering the following points:
 The report should also consider the opened issues and PRs related to changes in our plotting module
 when relevant to each of the three points above.
 
-The report should be completed by June 2022. We are aiming for an
-ArviZ team meeting and/or Bayesian workflow unconference sometime
-in July-August 2022 and want to have this report available to inform
-our roadmap planning.
-
 We emphasize again the need for the report to include rationale for
 all comments and references where appropriate. While the report will
 be written around ArviZ, it will be published here and we expect
@@ -84,3 +79,7 @@ with the following information:
   writing the report and why do you think we should hire you. Make sure to emphasize how
   you meet the job requirements (described above): publications in data viz, involvement with
   open source projects...
+  
+* Tentative timeline
+
+  Outline of the timeline of your planned work.
