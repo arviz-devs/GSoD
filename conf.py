@@ -41,6 +41,7 @@ myst_enable_extensions = ["colon_fence", "deflist"]
 
 html_theme = "furo"
 logo = "ArviZ.png"
+html_static_path = ["sphinx"]
 html_favicon = "sphinx/favicon.ico"
 html_theme_options = {
     "light_css_variables": {
