@@ -7,8 +7,6 @@ and across probabilistic programming frameworks use ArviZ to assist them to perf
 They study a wide range of problems, from the effectiveness of cancer treatments,
 to SpaceX rocket supply chains, to user behavior on the internet.
 
-The folks using ArviZ are technical writers of some sort themselves.
-They are using ArviZ to translate mathematical results into “inference”, also called data driven conclusions.
 To aid with Bayesian modeling analysis ArviZ provides both numerical and visual summaries,
 as well as a collection of software tools that help with modeling and storage of statistical results.
 
@@ -46,7 +44,7 @@ A 2 minute search to see if the book had been translated into Spanish only
 brought up Spanish bookstores selling the original English version of the book.
 
 ## About the project
-Given's ArviZ position position within the PPL ecosystem; some of the members of out team
+Given's ArviZ position within the PPL ecosystem; some of the members of our team
 are also members of PPL development teams. We would like to create an open, collaborative, online
 and multi-language (in all its meanings!) educational resource about the Bayesian workflow.
 
