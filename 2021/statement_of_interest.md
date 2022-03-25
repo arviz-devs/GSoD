@@ -41,5 +41,5 @@ please note that in your proposal and provide a username.
 * Proposed timeline and budget
    * Give a general outline of the timeline and phases of the project. For example, you may budget two weeks for information gathering, four weeks for writing, two weeks for review and changes, and a week for publication.
    * Include explicit expectations for participation and feedback from us. What will you need from the mentors? Fast answers to queries, help getting started with sphinx/documenter...
-   * Proposed budget information: see our comment on "Unskills" in [application.md]()
+   * Proposed budget information: see our comment on "Unskills" in the application page.
 

@@ -26,7 +26,6 @@ The document should have 5000 characters at the very most.
 Let us know if you have doubts about what constitutes a page.
 
 ---
----
 
 # Selection criteria
 As ArviZ project we strive to both share statistical ideas to aid the scientific workflow and to provide the code that enables that workflow.
