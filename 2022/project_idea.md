@@ -69,6 +69,7 @@ The Arviz documentation project will
     when merged. Reexecuting and updating code outputs can have manual steps.
 * Set up all a proof of concept in the [bayesian-workflow](https://github.com/arviz-devs/bayesian-workflow) repo
   together with all CI/CD necessary for updating the content.
+* Regular presentations to the ArviZ team about the writing workflow
 * Write documentation about maintaining the repository.
 * Define the style and structure of the resource.
 * Start adding some example/template pages (together with the ArviZ educational lead).
@@ -77,16 +78,19 @@ The Arviz documentation project will
   of PPLs.
 
 Work that is out of scope for this project
-* Writing the actual resource.
+* Writing the actual resource,
 
 ### Measuring your project’s success
 Given the scope of the enterprise and its very early stage, we believe the best metrics are:
 * Publishing the proof of concept (yes/no kind of metric)
-* Motivating external collaborators (and keeping ArviZ team member motivated)
-  to write content on the website (as opposed to driving them away due to a too cumbersome
-  writing workflow for example). Once the proof of concept is working, and potential
-  collaborators have seen and tested the process we would like to have 4 committed collaborators
-  (excluding the ArviZ technical lead that is a hired position).
+* Guiding ~3 ArviZ team members or external collaborators through the process of adding new pages and translations,
+  so they can continue working independently.
+  - We tried setting up some different educational resources a few years ago, but
+    the writing workflow was very complicated, most of us were unable to
+    generate previews and they were not automated either. Even if it is
+    an unconventional metric, we believe it is key for the project success
+    that we, as the ones who will write and onboard external collaborators,
+    understand the writing process and feel comfortable with it.
 
 We do not think that views are a valuable nor valid metric because it will be a resource
 in early stages of construction and won't have been advertised yet by then.
