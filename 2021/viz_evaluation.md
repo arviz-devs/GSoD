@@ -80,6 +80,6 @@ with the following information:
   you meet the job requirements (described above): publications in data viz, involvement with
   open source projects...
   
-* Tentative timeline
+* Tentative Work Plan and timeline
 
-  Outline of the timeline of your planned work.
+  Outline of your planned work. This should include work content and a timeline. 
