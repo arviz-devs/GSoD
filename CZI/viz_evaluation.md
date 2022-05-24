@@ -1,6 +1,6 @@
 # ArviZ Visual Refresh, Python API Assessment, and other advice
 ArviZ is a Python and Julia libary for exploratory analysis of Bayesian models,
-and includes many [vizualizations](https://arviz-devs.github.io/arviz/examples/index.html)
+and includes many [vizualizations](https://python.arviz.org/en/latest/examples/index.html)
 to that end.
 
 As with any open source package part of the challenge is maintaining an existing package.
