@@ -57,7 +57,7 @@ with the following information:
 * CV or Resume
 * Sample report
 
-  We ask you to choose one of [our plots](https://arviz-devs.github.io/arviz/api/plots.html) and write a sample report for it
+  We ask you to choose one of [our plots](https://python.arviz.org/en/latest/api/plots.html) and write a sample report for it
   regarding the two last points in the job description.
 
 * Statement of interest
