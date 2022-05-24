@@ -1,5 +1,5 @@
 # ArviZ Visual Refresh, Python API Assessment, and other advice
-ArviZ is a Python and Julia libary for exploratory analysis of Bayesian models,
+ArviZ is a Python and Julia library for exploratory analysis of Bayesian models,
 and includes many [vizualizations](https://python.arviz.org/en/latest/examples/index.html)
 to that end.
 
@@ -7,28 +7,33 @@ As with any open source package part of the challenge is maintaining an existing
 As part of the Chan Zuckerberg Initiative funds have been set aside for this express purpose.
 
 The scope of this work is to assess update visual style of the package (all components including docs)
-and perform an assessment of the API (primary python), and offer any other advice 
+and perform an assessment of the API (primary python), and offer any other advice
 
 ## Job description
-We are expecting a report covering the following points:
+We are expecting a report covering the following points (sorted in descending priority):
 
-* Analysis of available visualizations across Python and Julia
 
-  Evaluate and criticize current plots for visual style and effectiveness.
-  Critique the visual clarity of each
+1. Provide a design guide
 
-* Provide a design guide
-  This ideally would be in the form of an MPL, Bokeh, or other style template.
-  A README.md style guide should provided if deemed necessary as well.
+   This ideally would be in the form of a README.md style guide with explanation and references,
+   with focus around ArviZ usecases and bad practices we might be using now.
+   A matplotlib, Bokeh, or other style template could also be included as complementary material
 
-* Critique of the Python or Julia API 
-  This role will require you to get hands on with code. During this hands on process
-  document improvements that could be made to the API and code workflow itself
-  would be expected.
+1. Critique of the Python or Julia API
 
-* Any other advice or tips
-  In the course of performing this work, detailed issues tickets or reccomendations
-  for challenges or improvements would aid the ArviZ team in elevating the suite of projects
+   This role will require you to get hands on with code.
+   During this process documenting the improvements that could be made to the API and
+   code workflow itself is expected, updates to the code are not a priority.
+
+1. Analysis of available visualizations across Python and Julia
+
+   Evaluate and criticize current plots for visual style and effectiveness.
+   Critique the visual clarity of each
+
+1. Any other advice or tips
+
+   In the course of performing this work, detailed issues tickets or recommendations
+   for challenges or improvements would aid the ArviZ team in elevating the suite of projects
 
 
 ## Job requirements
@@ -39,6 +44,11 @@ We are expecting a report covering the following points:
 ## Support from ArviZ devs
 We will be available to help answer questions, review pull requests, and help as needed.
 We may not be available on short notice, but will do our best to ensure no question goes unanswered
+
+We are also planning on working on a redesign and proof of concept of a refactor
+of the plots module of the Python library at some point during July-September 2022.
+We'll try to coordinate to take into account the provided API critique or even
+to have the API critique be on the proposed refactored API.
 
 ## Payment
 The budget for this project is $1500 which will be paid through NumFOCUS
@@ -55,10 +65,6 @@ Applicants who wish to be hired to write the report should send an email to `arv
 with the following information:
 
 * CV or Resume
-* Sample report
-
-  We ask you to choose one of [our plots](https://python.arviz.org/en/latest/api/plots.html) and write a sample report for it
-  regarding the two last points in the job description.
 
 * Statement of interest
 
@@ -66,7 +72,7 @@ with the following information:
   writing the report and why do you think we should hire you. Make sure to emphasize how
   you meet the job requirements (described above): publications in data viz, involvement with
   open source projects...
-  
+
 * Tentative Work Plan and timeline
 
-  Outline of your planned work. This should include work content and a timeline. 
+  Outline of your planned work. This should include work content and a timeline.
