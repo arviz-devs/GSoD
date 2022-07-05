@@ -97,8 +97,6 @@ Given the scope of the enterprise and its very early stage, we believe the best 
 
 ## Project budget
 
-Budget item
-
 * Technical writer to create, update and review documentation of the infrastructure.
 $10,000
 * Volunteer stipend for mentor $500.
@@ -112,5 +110,5 @@ $50
  Any extra funds left from the domain budget item will be used here.
 
 
-** TOTAL ** : $11,000.
+** TOTAL  : $11,000.
 
