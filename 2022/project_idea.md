@@ -23,7 +23,7 @@ how to use PPLs and Bayesian modeling could equally pose a level of difficulty. 
 the possible libraries that are used with the Bayesian workflow
 without doing a disservice to any group of users by not capturing their choice of library or language. 
 Here's the icebreaker, writing such educational material/guide is actually one and the same, 
-a wider task generally called Bayesian workflow.[Bayesian workflow](https://arxiv.org/abs/2011.01808].
+a wider task generally called Bayesian workflow.[Bayesian workflow](https://arxiv.org/abs/2011.01808).
 
 Solving real problems with the Bayesian model requires computational tools, 
 so trying to explain Bayesian modeling without using any PPL is very limited and not efficient. 
@@ -67,7 +67,7 @@ The Arviz documentation project scope includes the following:
 
 - Changes to the explanation content should be reflected on the website automatically
   when merged. Reexecuting and updating code outputs can have manual steps.
-* Set up  a proof of concept in the [bayesian-workflow](https://xcelab.net/rm/statistical-rethinking/) repo
+* Set up  a proof of concept in the [bayesian-workflow](https://github.com/arviz-devs/bayesian-workflow) repo
 * together with all CI/CD necessary for updating the content.
 * Regular presentations to the ArviZ team about the writing workflow.
 * Write documentation about maintaining the repository.
