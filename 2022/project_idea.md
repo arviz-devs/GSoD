@@ -37,7 +37,7 @@ In fact, this is already what is happening. For several years now,
 all books in Bayesian modeling uses and explain computational tools, 
 they very often have a "paired" GitHub repo with the code used in the book, 
 _and the most popular books are "translated" to other PPLs and programming languages._ 
-To give one example, [Statistical Rethinking] (https://xcelab.net/rm/statistical-rethinking/)
+To give one example, [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
 has had their code examples translated into at least 3 programming languages 
 (R, Python and Julia) and multiple PPLs. The book homepage lists 10 such translations. 
 A 2 minute search to see if the book had been translated into Spanish only 
@@ -67,7 +67,7 @@ The Arviz documentation project scope includes the following:
 
 - Changes to the explanation content should be reflected on the website automatically
   when merged. Reexecuting and updating code outputs can have manual steps.
-* Set up  a proof of concept in the bayesian-workflow repo
+* Set up  a proof of concept in the [bayesian-workflow](https://github.com/arviz-devs/bayesian-workflow) repo
 * together with all CI/CD necessary for updating the content.
 * Regular presentations to the ArviZ team about the writing workflow.
 * Write documentation about maintaining the repository.
