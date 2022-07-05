@@ -23,7 +23,7 @@ how to use PPLs and Bayesian modeling could equally pose a level of difficulty. 
 the possible libraries that are used with the Bayesian workflow
 without doing a disservice to any group of users by not capturing their choice of library or language. 
 Here's the icebreaker, writing such educational material/guide is actually one and the same, 
-a wider task generally called Bayesian workflow..(Bayesian workflow](https://arxiv.org/abs/2011.01808).
+a wider task generally called Bayesian workflow.[Bayesian workflow](https://arxiv.org/abs/2011.01808].
 
 Solving real problems with the Bayesian model requires computational tools, 
 so trying to explain Bayesian modeling without using any PPL is very limited and not efficient. 
@@ -31,7 +31,7 @@ But at the same time, explaining how to use a PPL to someone who doesn't know
 anything about Bayesian modeling is also a fool's errand. 
 Any modeling without visualization, diagnostics and model checking is 
 doomed from the start.
-We need to teach all these skills at the same time in an organized and coherent manner.
+**We need to teach all these skills at the same time in an organized and coherent manner**.
 
 In fact, this is already what is happening. For several years now, 
 all books in Bayesian modeling uses and explain computational tools, 
@@ -97,6 +97,8 @@ Given the scope of the enterprise and its very early stage, we believe the best 
 
 ## Project budget
 
+Budget item
+
 * Technical writer to create, update and review documentation of the infrastructure.
 $10,000
 * Volunteer stipend for mentor $500.
@@ -110,5 +112,5 @@ $50
  Any extra funds left from the domain budget item will be used here.
 
 
-** TOTAL  : $11,000.
+** TOTAL ** : $11,000.
 
