@@ -67,7 +67,7 @@ The Arviz documentation project scope includes the following:
 
 - Changes to the explanation content should be reflected on the website automatically
   when merged. Reexecuting and updating code outputs can have manual steps.
-* Set up  a proof of concept in the [bayesian-workflow](https://github.com/arviz-devs/bayesian-workflow) repo
+* Set up  a proof of concept in the [bayesian-workflow](https://xcelab.net/rm/statistical-rethinking/) repo
 * together with all CI/CD necessary for updating the content.
 * Regular presentations to the ArviZ team about the writing workflow.
 * Write documentation about maintaining the repository.
