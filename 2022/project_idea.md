@@ -15,7 +15,7 @@ To date of writing, ArviZ integrates with at least 9 different Probabilistic Pro
 including all major PPLs like Stan, PyMC or Turing.
 
 ### Contact 
-For any inquiry about Season of Docs at ArviZ, contact us at gitter.
+For any inquiry about Season of Docs at ArviZ, contact us at [gitter](https://gitter.im/arviz-devs/season_of_docs).
 
 ## Project motivation
 Writing educational contents to teach how to use ArviZ  could pose a certain level of difficulty, producing educational contents to teach
@@ -52,32 +52,31 @@ The goal of the project is to set up all the infrastructure for such a resource 
 avoid duplications like the one encountered above, and once this is achieved, guide the ArviZ educational lead 
 so they can start writing content.
 
-### Project’s scope
+## Project’s scope
 The Arviz documentation project scope includes the following:
 * Evaluate multiple alternatives to generate this Bayesian workflow resource. 
   The ideal requirements are:
-- The bulk of the explanation/prose content will be common. 
-  The _multiple_ pages for each programming language and PPL need to be combined 
-  with the single explanation source of truth and rendered.
-- The code examples must be written in executable files and store their outputs
-  for rendering automatically (and without extra code). 
-  This will not be a static resource and will need to be updated regularly.
-- The explanation content must be written in a format that supports internationalization. 
-  Ideally, code annotations or comments would do but they can be avoided or kept in English.
-
-- Changes to the explanation content should be reflected on the website automatically
+  - The bulk of the explanation/prose content will be common. 
+    The _multiple_ pages for each programming language and PPL need to be combined 
+    with the single explanation source of truth and rendered.
+  - The code examples must be written in executable files and store their outputs
+    for rendering automatically (and without extra code). 
+    This will not be a static resource and will need to be updated regularly.
+  - The explanation content must be written in a format that supports internationalization. 
+    Ideally, code annotations or comments would do but they can be avoided or kept in English.
+  - Changes to the explanation content should be reflected on the website automatically
   when merged. Reexecuting and updating code outputs can have manual steps.
 * Set up  a proof of concept in the [bayesian-workflow](https://github.com/arviz-devs/bayesian-workflow) repo
-* together with all CI/CD necessary for updating the content.
+  together with all CI/CD necessary for updating the content.
 * Regular presentations to the ArviZ team about the writing workflow.
 * Write documentation about maintaining the repository.
 * Define the style and structure of the resource.
 * Start adding some example/template pages (together with the ArviZ educational lead). 
-* For example, a quick way to add content and motivate other people to 
-* collaborate would be to adopt some case studies from the documentation 
-* of PPLs.
+  For example, a quick way to add content and motivate other people to 
+  collaborate would be to adopt some case studies from the documentation 
+  of PPLs.
 
-  Work that is out of scope for this project
+Work that is out of scope for this project
 * Writing the actual resource.
 
 ### Measuring your project’s success
@@ -85,31 +84,23 @@ Given the scope of the enterprise and its very early stage, we believe the best 
 * Publishing the proof of concept (yes/no kind of metric)
 * Guiding ~3 ArviZ team members or external collaborators through the process of adding new pages and translations, 
   so they can continue working independently.
-- We tried setting up some different educational resources a few years ago, but 
-  the writing workflow was very complicated, most of us were unable to 
-  generate previews and they were not automated either. Even if it is an 
-  unconventional metric, we believe it is key for the project's success 
-  that we, as the ones who will write and onboard external collaborators, 
-  understand the writing process and feel comfortable with it.
+  - We tried setting up some different educational resources a few years ago, but 
+    the writing workflow was very complicated, most of us were unable to 
+    generate previews and they were not automated either. Even if it is an 
+    unconventional metric, we believe it is key for the project's success 
+    that we, as the ones who will write and onboard external collaborators, 
+    understand the writing process and feel comfortable with it.
 
- We do not think that views are a valuable nor valid metric because it will be a resource in 
- early stages of construction and won't have been advertised by then.
+We do not think that views are a valuable nor valid metric because it will be a resource in 
+early stages of construction and won't have been advertised by then.
 
 ## Project budget
 
-Budget item
-
-* Technical writer to create, update and review documentation of the infrastructure.
-$10,000
+* Technical writer to create, update and review documentation of the infrastructure. $10,000
 * Volunteer stipend for mentor $500.
- $500
-* Domain registration and renovation.
-$50
-* Downstream donation to infrastructural dependencies like sphinx to generate the website from the source docs, libraries like myst-nb to parse the jupyter notebooks as  sources for the website, readthedocs for building and hosting the website+translations, transifex for managing collaborative translations. 
- $450
- 
-* Donations
- Any extra funds left from the domain budget item will be used here.
+* Domain registration and renovation. $50
+* Downstream donation to infrastructural dependencies like sphinx to generate the website from the source docs, libraries like myst-nb to parse the jupyter notebooks as  sources for the website, readthedocs for building and hosting the website+translations, transifex for managing collaborative translations.  $450
+  * Any extra funds left from the domain budget item will be used here and added to the "downstream donation" budget item.
 
 
 **TOTAL** : $11,000.
