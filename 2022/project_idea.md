@@ -1,7 +1,7 @@
 # Centralized documentation for computational Bayesian workflow
 
 ## About ArviZ
-ArviZ is an open-source library dedicated to building tools for Exploratory Analysis of Bayesian Models. 
+ArviZ is an open-source project dedicated to building tools for Exploratory Analysis of Bayesian Models. 
 Statisticians and data analysts across both academic and industry, across programming languages 
 and across probabilistic programming frameworks trust ArviZ to assist them to perform statistical workflows. 
 They study a wide range of problems, from the effectiveness of cancer treatments 
@@ -18,22 +18,31 @@ including all major PPLs like Stan, PyMC or Turing.
 For any inquiry about Season of Docs at ArviZ, contact us at [gitter](https://gitter.im/arviz-devs/season_of_docs).
 
 ## Project motivation
-Writing educational contents to teach how to use ArviZ  could pose a certain level of difficulty, producing educational contents to teach
-how to use PPLs and Bayesian modeling could equally pose a level of difficulty. This difficulty isn't because these frameworks and libraries are inherently complex or too technical but rather as a result of having an encompassing documentation that captures all
-the possible libraries that are used with the Bayesian workflow
-without doing a disservice to any group of users by not capturing their choice of library or language. 
-Here's the icebreaker, writing such educational material/guide is actually one and the same, 
+Writing educational contents to teach how to use ArviZ is difficult, producing educational contents to teach
+how to use PPLs or Bayesian modeling is also difficult. 
+This difficulty isn't because these frameworks and libraries are inherently complex or too technical 
+but rather as a result of having to encompass the use of several libraries and multiple theoretical topics.
+Here's the key insight, the creation of educational material/guides on ArviZ, PPLs or Bayesian modeling
+are entangled within them, it is actually one and the same, 
 a wider task generally called Bayesian workflow.[Bayesian workflow](https://arxiv.org/abs/2011.01808].
 
-Solving real problems with the Bayesian model requires computational tools, 
+Solving real problems with Bayesian modeling requires computational tools, 
 so trying to explain Bayesian modeling without using any PPL is very limited and not efficient. 
 But at the same time, explaining how to use a PPL to someone who doesn't know 
 anything about Bayesian modeling is also a fool's errand. 
-Any modeling without visualization, diagnostics and model checking is 
+Moreover, any modeling without visualization, diagnostics and model checking (tasks done with ArviZ) is 
 doomed from the start.
 **We need to teach all these skills at the same time in an organized and coherent manner**.
 
-In fact, this is already what is happening. For several years now, 
+In the case of ArviZ in particular, we also aim to integrate with all available PPLs instead of only one.
+Therefore, we need to write documentation that captures all
+the possible libraries that are used with the Bayesian workflow.
+Otherwise we would be doing a disservice to many of our users by not capturing their choice of library or language. 
+The resource proposed here however is not limited to using ArviZ with multiple PPLs,
+we also aim to include an R version for example (where ArviZ is not available) and
+use alternatives to ArviZ.
+
+In fact, the multi-PPL and multi-language approach is already what is happening. For several years now, 
 all books in Bayesian modeling uses and explain computational tools, 
 they very often have a "paired" GitHub repo with the code used in the book, 
 _and the most popular books are "translated" to other PPLs and programming languages._ 
