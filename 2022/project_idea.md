@@ -58,7 +58,7 @@ double as members of PPL development teams. We would like to create an open, col
 and multi-language (in all its meanings!) educational resource about the Bayesian workflow. This resource will cover the various compatible libraries that can be used to create Bayesian workflow with sample visualizations and codes.
 
 The goal of the project is to set up all the infrastructure for such a resource to 
-avoid duplications like the one encountered above, and once this is achieved, guide the ArviZ educational lead 
+avoid duplication and to avoid serving only a subset of the users, and once this is achieved, guide the ArviZ educational lead 
 so they can start writing content.
 
 ## Project’s scope
